@@ -6,7 +6,7 @@
 #Tools:   R Studio | R version 4.0.1 (2020-06-06)
 #Package: tidyverse, kableExtra, rtf
 #Goal: Create AE Table using R Base and 
-#      tidyverse
+#      tidyverse 
 #------------------------------
 ##############################
 # Step: 0 - Load libraries
